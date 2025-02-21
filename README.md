@@ -1,4 +1,4 @@
-<h2 align="left">Oii !! , meu nome é Yasmim..👋</h2>
+<h2 align="center">Olá!! Meu nome é Yasmim..👋</h2>
 
 ###
 
